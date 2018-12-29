@@ -1,2 +1,2 @@
 # Salvete
-try-out
+It's just a try-out repository.
